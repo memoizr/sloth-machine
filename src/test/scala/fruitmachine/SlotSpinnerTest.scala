@@ -1,0 +1,5 @@
+package fruitmachine
+
+class SlotSpinnerTest {
+
+}
